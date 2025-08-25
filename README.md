@@ -142,5 +142,3 @@
 * **Mesures** : Restreindre les requêtes sortantes, validation des entrées, listes blanches d’URLs autorisées.
 
 ---
-
-👉 Veux-tu que je crée un **tableau comparatif (CIA vs OWASP Top 10)** avec **Objectif – Menace – Exemple – Mesures**, qui serait directement exploitable dans une slide Canva ?
