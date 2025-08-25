@@ -340,7 +340,3 @@ class AccessTests(TestCase):
 * Journalisation activée (403/permission denied, changements de droits).
 * Revue de code: toute action sensible protégée par `has_perm(...)`.
 * Jeux de données de test: vérifier **escalade horizontale/verticale**.
-
----
-
-Si tu veux, je peux te livrer une **mini-base de projet** (app `blog/` avec modèles, vues CBV sécurisées, DRF ViewSet, commande `bootstrap_roles`, tests) pour démarrer directement le TP.
